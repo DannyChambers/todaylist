@@ -1,4 +1,4 @@
-# daylist
+# Daylist
 
 ## Project setup
 ```
